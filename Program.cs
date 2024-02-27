@@ -18,6 +18,9 @@ internal class Program
         // problem set#4 Breakig Records
         // BreakingRecordInitSetup.Init();
 
+        // problem set#5 Camel Case 4
+        // CamelCase4InitSetup.Init();
+        CamelCase4New.Init();
 
     }
 }
